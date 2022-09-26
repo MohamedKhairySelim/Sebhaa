@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2235897435897436" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2235897435897436" />
+        <entry key="app/src/main/res/drawable/round_button.xml" value="0.22708333333333333" />
+        <entry key="app/src/main/res/layout/SplashScreen.xml" value="0.20462962962962963" />
+        <entry key="app/src/main/res/layout/activity_add_new_zeker.xml" value="0.16" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_main22.xml" value="0.12407407407407407" />
+        <entry key="app/src/main/res/layout/activity_quran.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_zeker_page.xml" value="0.11" />
+        <entry key="app/src/main/res/layout/fragment_a_l__baka_ra.xml" value="0.12" />
+        <entry key="app/src/main/res/layout/fragment_a_l_imran.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_aali__im_raan.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_abasa.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/fragment_ad_dhuhaa.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/fragment_ad_dukhaan.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_adh_dhaariyat.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_ah_ahzaab.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al.xml" value="0.10067114093959731" />
+        <entry key="app/src/main/res/layout/fragment_al__a_ara_f.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al__a_n_a_a_m.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al__an_fal.xml" value="0.10168112798264642" />
+        <entry key="app/src/main/res/layout/fragment_al__hejr.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al__isra.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al__kahf.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al__maidah.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_aadiyaat.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/fragment_al_ahqaf.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_alaa.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/fragment_al_alaq.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/fragment_al_anbiyaa.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_ankaboot.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_asr.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/fragment_al_balad.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_baqara.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_bayyina.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_burooj.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_fajr.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_falaq.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_al_fath.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_fill.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_al_furqaan.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_ghaashiya.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_haaqqa.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_hadid.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_haij.xml" value="0.10465819721718088" />
+        <entry key="app/src/main/res/layout/fragment_al_hashr.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_hujuraat.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_humaza.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/fragment_al_ikhlaas.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/fragment_al_infitaar.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_insaan.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_inshiqaaq.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_jaathiya.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_jinn.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_jumua.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_kaafiroon.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/fragment_al_kawthar.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/fragment_al_lail.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_maaarij.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_maaun.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/fragment_al_masad.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_muddaththir.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_mujaadila.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_mulk.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_muminoon.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_mumtahana.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_munaafiqoon.xml" value="0.14" />
+        <entry key="app/src/main/res/layout/fragment_al_mursalaat.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/fragment_al_mutaffifin.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/fragment_al_muzzammil.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/fragment_al_qaaria.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/fragment_al_qadr.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_qalam.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_qamar.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_qasas.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_qiyaama.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_al_taghaabun.xml" value="0.12" />
+        <entry key="app/src/main/res/layout/fragment_al_waaqia.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_alfaatiha_.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/fragment_an__nahl.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_an_naas.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/fragment_an_naaziaat.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_an_naba.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_an_najm.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_an_naml.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_an_nasr.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_an_noor.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_ar__raid.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_ar_rahmaan.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_ar_room.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_as_saaffaat.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_as_saff.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_as_sajda.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_ash_shams.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_ash_sharh.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_ash_shuaraa.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_ash_sura.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_at__tawbah.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_at_taariq.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_at_tahrim.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_at_takaathur.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/fragment_at_takwir.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_at_talaaq.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/fragment_at_tin.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_at_tur.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_az_zalzala.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/fragment_az_zukhruf.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_az_zumar.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_faatir.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_fussilat.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_ghaafir.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_hud.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_ibrahim.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_luqman.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_maryam.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_muhammad.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_nooh.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/fragment_qaaf.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_quraish.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/fragment_saad.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_saba.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_taahaa.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_yaseen.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_yunus.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_yusuf.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1962962962962963" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1962962962962963" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

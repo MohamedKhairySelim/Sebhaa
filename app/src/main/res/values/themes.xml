@@ -1,0 +1,8 @@
+<resources >
+    <style name="Theme.Tasbeh" parent="Theme.AppCompat.DayNight">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/icons</item>
+        <item name="colorAccent">@color/divider</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
